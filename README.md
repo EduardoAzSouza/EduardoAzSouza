@@ -50,6 +50,8 @@ Busco desafios como Desenvolvedor Pleno, onde eu possa aplicar minha vivência c
   <img alt="React" title="React" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
 </p>
 
+### 🗄️ Bancos de Dados, Busca & Mensageria
+
 <p align="left">
   <!-- Bancos de Dados, Busca & Mensageria -->
   <img alt="PostgreSQL" title="PostgreSQL" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" />
@@ -57,7 +59,11 @@ Busco desafios como Desenvolvedor Pleno, onde eu possa aplicar minha vivência c
   <img alt="Oracle" title="Oracle" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/oracle/oracle-original.svg" />
   <img alt="Elasticsearch" title="Elasticsearch" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/elasticsearch/elasticsearch-original.svg" />
   <img alt="RabbitMQ" title="RabbitMQ" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rabbitmq/rabbitmq-original.svg" />
-  
+</p>
+
+### 🛠️ DevOps, Cloud & Ferramentas
+
+<p align="left">  
   <!-- DevOps, Cloud & Ferramentas -->
   <img alt="Git" title="Git" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
   <img alt="Docker" title="Docker" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-original.svg" />

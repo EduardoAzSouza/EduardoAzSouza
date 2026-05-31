@@ -30,6 +30,7 @@ Busco desafios como Desenvolvedor Pleno, onde eu possa aplicar minha vivência c
 ## 📫 Contato
 - 📧 E-mail: eduardosouza_araras@hotmail.com
 - 💼 LinkedIn: [eduardoazsouza](https://www.linkedin.com/in/eduardoazsouza/)
+- 🌐 Site: https://eduardoazsouza.github.io/Portifolio/
 
 ### 🤖 Linguagens e Tecnologias
 

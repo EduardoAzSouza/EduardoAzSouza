@@ -6,7 +6,6 @@
 
 📍 Araras, São Paulo - Brasil
 
----
 
 ## 🧠 Sobre a minha trajetória
 Sou Engenheiro da Computação formado pela FHO e atuo como Desenvolvedor de Software com foco no ecossistema .NET. Minha base técnica foi construída a partir da engenharia, o que me proporcionou uma visão analítica e estruturada para a resolução de problemas complexos e a construção de aplicações escaláveis.
@@ -20,24 +19,17 @@ Possuo uma visão sistêmica sobre o ciclo de vida das aplicações. Minha exper
 
 No dia a dia, prezo pela qualidade e segurança do código, aplicando princípios de Clean Code, SOLID e testes automatizados, além de garantir a segurança de acessos utilizando Keycloak e JWT. Trabalho bem em ambientes colaborativos e sob metodologias ágeis (Scrum/Kanban).
 
----
 
 ## 🎓 Formação
 - 🎓 Bacharelado em Engenharia da Computação - FHO (Fundação Hermínio Ometto)
 - 🛡️ Fortinet Certified Fundamentals in Cybersecurity - Fortinet
 
----
-
 ## 📈 Objetivo
 Busco desafios como Desenvolvedor Pleno, onde eu possa aplicar minha vivência com microsserviços, desenvolvimento back-end e arquitetura em nuvem para construir soluções que garantam estabilidade técnica e entreguem valor real ao negócio.
-
----
 
 ## 📫 Contato
 - 📧 E-mail: eduardosouza_araras@hotmail.com
 - 💼 LinkedIn: [eduardoazsouza](https://www.linkedin.com/in/eduardoazsouza/)
-
----
 
 ### 🤖 Linguagens e Tecnologias
 
@@ -63,8 +55,6 @@ Busco desafios como Desenvolvedor Pleno, onde eu possa aplicar minha vivência c
   <img alt="SonarQube" title="SonarQube" width="40px" style="padding-right: 10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/sonarqube/sonarqube-original.svg" />
 </p>
 
-<br/>
-<br/>
 
 ### 📊 Estatísticas
 
